@@ -3,6 +3,10 @@
 - stack 
 - heap 
 - reference counting
+- lifetime elision
+- hygienic macros
+- move semantics
+- algebraic data types
 
 ### Some rust terms that have special meaning
 
